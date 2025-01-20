@@ -3,4 +3,4 @@
 # Links to External Repositories
 
 - [**Better Workday Calendar**](https://github.com/SeabertYuan/better-workday-calendar)
-- [**MediCompanion](https://github.com/OnionFastener/NWHacks2025)
+- [**MediCompanion**](https://github.com/OnionFastener/NWHacks2025)
