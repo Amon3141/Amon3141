@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-lake-ten-85.vercel.app/api/top-langs/?username=Amon3141&layout=compact&langs_count=9&hide=ShaderLab&theme=random&exclude_repo=github-readme-stats)
+![Top Langs](https://github-readme-stats-lake-ten-85.vercel.app/api/top-langs/?username=Amon3141&layout=compact&langs_count=9&hide=ShaderLab&theme=random&exclude_repo=github-readme-stats&vstub=1)
 
 # Links to External Repositories
 
