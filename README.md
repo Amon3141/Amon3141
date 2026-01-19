@@ -2,5 +2,11 @@
 
 # Links to External Repositories
 
-- [**Better Workday Calendar**](https://github.com/SeabertYuan/better-workday-calendar)
-- [**MediCompanion**](https://github.com/OnionFastener/NWHacks2025)
+[**Better Workday Calendar**](https://github.com/SeabertYuan/better-workday-calendar)
+- A browser extension that fixes and improves various features on the course calendar view on UBC Workday.
+  
+[**Town Square**](https://github.com/PeterYuLi1204/town-square)
+- nwHacks 2026 project
+
+[**MediCompanion**](https://github.com/OnionFastener/NWHacks2025)
+- nwHacks 2025 project
