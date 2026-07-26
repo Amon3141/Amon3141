@@ -2,9 +2,16 @@
 
 # iOS Apps
 I make apps for myself. If you find them useful, feel free to install!
-- [CafeHopping](https://apps.apple.com/app/id6778624675): for cafe lovers
+- [**CafeHopping**](https://apps.apple.com/app/id6778624675): for cafe lovers
 
-# Links to External Repositories
+# Contests
+- [**Kaggle**](https://www.kaggle.com/amonkizawa): Kaggle Expert
+  - Silver Medal (31/3357 teams) @ [Santa 2025 - Christmas Tree Packing Challenge](https://www.kaggle.com/competitions/santa-2025)
+  - Silver Medal (214/4729 teams) @ [Orbit Wars](https://www.kaggle.com/competitions/orbit-wars)
+  - 2 Bronze Medals
+- [**AtCoder**](https://atcoder.jp/users/Jiro314?contestType=heuristic): Heuristics Blue
+
+# External Repositories
 - [**Better Workday Calendar**](https://github.com/SeabertYuan/better-workday-calendar)
   - A browser extension that fixes and improves various features on the course calendar view on UBC Workday.
 - [**Town Square**](https://github.com/PeterYuLi1204/town-square)
