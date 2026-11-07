@@ -1,7 +1,7 @@
 ![Top Langs](https://github-readme-stats-lake-ten-85.vercel.app/api/top-langs/?username=Amon3141&layout=compact&langs_count=9&hide=ShaderLab&theme=random&exclude_repo=github-readme-stats,deep-learning-from-scratch-5,orbit-wars&custom_title=My%20Tech%20Stack&stub=1)
 
 # iOS Apps
-- [**CafeHopping**](https://apps.apple.com/app/id6778624675): 500+ users!
+- [**CafeMeguri**](https://apps.apple.com/app/id6778624675): Cafe hopping app
 
 # Contests
 - [**Kaggle**](https://www.kaggle.com/amonkizawa): Kaggle Expert
